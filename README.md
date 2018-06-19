@@ -1,5 +1,7 @@
 # Date Range Picker for Bootstrap
+### Add a vue wrapper for personal use.
 
+## Original README.md
 ![Improvely.com](https://i.imgur.com/UTRlaar.png)
 
 This date range picker component creates a dropdown menu from which a user can
